@@ -8,6 +8,8 @@
     Version 1-20180211, author:unixfreaxjp
 */
 
+include "000_common_rules.yar"
+
 private rule is__osx
 {
  meta:
